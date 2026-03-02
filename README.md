@@ -1,54 +1,57 @@
 # 📊 Regional Sales Analysis Dashboard (Tableau)
 
 ## 📌 Project Overview
-Developed an interactive Tableau dashboard to analyze regional sales performance across Primary and Secondary regions. The dashboard provides insights into total sales, average sales, unique customers, and distinct products sold for comparative performance analysis.
+Developed an interactive Tableau dashboard to analyze and compare Primary and Secondary regional sales performance. The dashboard highlights key KPIs such as total sales, average sales, unique customers, and distinct products sold.
 
 ---
 
 ## 🛠 Tools & Technologies
 - Tableau
-- Data Visualization
 - Calculated Fields
 - Interactive Filters
-- KPI Metrics
+- KPI Cards
+- Dashboard Actions
 
 ---
 
-## 📈 Key Metrics
-- Total Sales (Primary & Secondary Region)
-- Average Sales
-- Unique Customers
-- Distinct Products Sold
-- Regional Comparison Analysis
+## 📈 Dashboard Components
+
+### 1️⃣ PR Sales
+![PR Sales](screenshot1.png)
+
+### 2️⃣ SR Sales
+![SR Sales](screenshot2.png)
+
+### 3️⃣ Primary Region – Average Sales
+![PR Avg Sales](screenshot3.png)
+
+### 4️⃣ Secondary Region – Average Sales
+![SR Avg Sales](screenshot4.png)
+
+### 5️⃣ Primary Unique Customers
+![Primary Unique Customers](screenshot5.png)
+
+### 6️⃣ Secondary Unique Customers
+![Secondary Unique Customers](screenshot6.png)
+
+### 7️⃣ Primary Region – Distinct Products Sold
+![PR Distinct Products](screenshot7.png)
+
+### 8️⃣ Secondary Region – Distinct Products Sold
+![SR Distinct Products](screenshot8.png)
+
+### 9️⃣ Final Combined Dashboard
+![Final Dashboard](screenshot9.png)
 
 ---
 
-## 🎛 Dashboard Features
-- Dynamic Region Filters
-- Interactive Visualizations
-- Comparative Regional Performance
-- Category & Product-Level Insights
-
----
-
-## 📷 Dashboard Screenshots
-
-### 🔹 Main Dashboard
-![Dashboard 1](dashboard1.png)
-
-### 🔹 Sales Analysis View
-![Dashboard 2](dashboard2.png)
-
-### 🔹 Customer Insights
-![Dashboard 3](dashboard3.png)
-
-### 🔹 Product Analysis
-![Dashboard 4](dashboard4.png)
-
-### 🔹 Detailed View
-![Dashboard 5](dashboard5.png)
+## 🎯 Key Insights
+- Comparison of Primary vs Secondary region performance
+- Sales trend and average order insights
+- Customer distribution analysis
+- Product category performance evaluation
 
 ---
 
 ## 🚀 Project Objective
-To enable data-driven decision-making by providing clear insights into regional sales trends, customer distribution, and product performance.
+To enable regional performance comparison and support data-driven business decisions using interactive Tableau visualizations.
